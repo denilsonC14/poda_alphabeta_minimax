@@ -17,11 +17,10 @@ El código fuente de este proyecto está disponible en el siguiente repositorio 
 
 Puedes clonar este repositorio usando el siguiente comando:
 
-```bash
 git clone https://github.com/denilsonC14/poda_alphabeta_minimax.git
 
 
-Despliegue
+## Despliegue
 Para facilitar su uso, el proyecto ha sido desplegado en la plataforma Vercel. Puedes acceder y probar la aplicación directamente desde el siguiente enlace:
 
 https://poda-alphabeta-minimax.vercel.app/
